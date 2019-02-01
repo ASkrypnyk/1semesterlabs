@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544225226 source:f:\massive\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
